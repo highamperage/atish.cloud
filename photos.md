@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/highamperage/atish.cloud/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![alt text] (https://drive.google.com/uc?export=view&id=11NrbSc_qbBcOz2pmpPn3ONtmEukUh7qN "Hello")
+<img src="https://drive.google.com/uc?export=view&id=11NrbSc_qbBcOz2pmpPn3ONtmEukUh7qN">
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

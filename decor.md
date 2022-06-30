@@ -6,11 +6,13 @@ You can use the [editor](https://github.com/highamperage/atish.cloud/edit/gh-pag
 2. [Sangeet](#sangeet)
 3. [Wedding](#wedding)
 
-## <div id="vidhi">Vidhi</div>
+### Vidhi
+<div id="vidhi"></div>
 
-## <div id="sangeet">Sangeet</div>
+# Sangeet
+<div id="sangeet">
 
-## <div id="wedding">Sangeet</div>
-
+### Wedding
+<div id="wedding"></div>
 
 <img src="https://drive.google.com/uc?export=view&id=11NrbSc_qbBcOz2pmpPn3ONtmEukUh7qN">

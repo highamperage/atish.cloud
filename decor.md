@@ -35,4 +35,4 @@
 <img src="https://drive.google.com/uc?export=view&id=12EVWj-yVVxhC-nVmKeYonSkcd2BTUspM">
 
 <img src="https://drive.google.com/uc?export=view&id=11NrbSc_qbBcOz2pmpPn3ONtmEukUh7qN">
-You can use the [editor](https://github.com/highamperage/atish.cloud/edit/gh-pages/decor.md) to maintain and preview the content for your website in Markdown files.
+

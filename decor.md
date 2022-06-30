@@ -1,7 +1,5 @@
 # Decor Example Photos
 
-You can use the [editor](https://github.com/highamperage/atish.cloud/edit/gh-pages/decor.md) to maintain and preview the content for your website in Markdown files.
-
 1. [Vidhi](#vidhi)
 2. [Sangeet](#sangeet)
 3. [Wedding](#wedding)
@@ -37,3 +35,4 @@ You can use the [editor](https://github.com/highamperage/atish.cloud/edit/gh-pag
 <img src="https://drive.google.com/uc?export=view&id=12EVWj-yVVxhC-nVmKeYonSkcd2BTUspM">
 
 <img src="https://drive.google.com/uc?export=view&id=11NrbSc_qbBcOz2pmpPn3ONtmEukUh7qN">
+You can use the [editor](https://github.com/highamperage/atish.cloud/edit/gh-pages/decor.md) to maintain and preview the content for your website in Markdown files.
